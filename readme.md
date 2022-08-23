@@ -2,13 +2,11 @@
 
 Simple app to generate and download a QR code that can be used to share a link.
 
-[Live Demo](https://qrcodes.tech)
+[Live Demo](https://magic-qr-generator.netlify.app/)
 
 <img src="img/screen.png">
 
 ### MIT License
-
-Copyright &copy; 2022 Brad Traversy
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
